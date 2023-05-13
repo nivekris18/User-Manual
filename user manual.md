@@ -1,19 +1,18 @@
 # Table of Contents
 
-[GETTING STARTED [2](#getting-started)](#getting-started)
+[GETTING STARTED](#getting-started)
 
-[LOG IN/ SIGN IN [3](#log-in-sign-in)](#log-in-sign-in)
+[LOG IN/ SIGN IN](#log-in-sign-in)
 
-- [Existing Member [<u>3</u>](#existing-member)](#existing-member)
+- [Existing Member](#existing-member)
 
-- [New Member [<u>3</u>](#new-member)](#new-member)
+- [New Member](#new-member)
 
-[LOGGING OFF/ SIGN OUT
-[4](#logging-off-sign-out)](#logging-off-sign-out)
+[LOGGING OFF/ SIGN OUT](#logging-off-sign-out)
 
-[FUNCTIONS [4](#functions)](#functions)
+[FUNCTIONS](#functions)
 
-[SETTINGS [5](#settings)](#settings)
+[SETTINGS](#settings)
 
 Prime Video, also marketed as Amazon Prime Video, is an American
 Internet video-on-demand service that is developed, owned, and operated
@@ -22,21 +21,19 @@ members and includes a huge library of movies and TV shows across every
 category, from romantic comedies to timeless classics.
 
 # GETTING STARTED
-
-- To get started, ensure that you are running the latest version of one
-  of these web browsers:
-
 <!-- -->
 
-- Google Chrome
+- To get started, ensure that you are running the latest version of one of these web browsers:
 
-- Mozilla Firefox
+  * Google Chrome
 
-- Microsoft Edge
+  * Mozilla Firefox
 
-- Safari
+  * Microsoft Edge
 
-- Opera
+  * Safari
+
+  * Opera
 
 <!-- -->
 
@@ -44,8 +41,7 @@ category, from romantic comedies to timeless classics.
 
 - Click **Sign in to join Prime**.
 
-<img src="vertopal_bc3c5f9d31814935baf4b893a10d7c35/media/image1.jpeg"
-style="width:6.53678in;height:4.49242in" />
+![Figure 1](https://github.com/nivekris18/User-Manual/assets/133299290/19d82ad3-3f82-4ee3-a0b0-a027c30bbf16)
 
 > **Figure 1**
 
@@ -55,42 +51,32 @@ style="width:6.53678in;height:4.49242in" />
 
 <!-- -->
 
-- Enter “Email or mobile phone number” and “Password” associated with
-  your Amazon account.
+   * Enter “Email or mobile phone number” and “Password” associated with your Amazon account.
 
-- Click on **Sign in**
+   * Click on **Sign in**
 
-- If you have forgotten your password, click **Forgot your
-  password?** on the sign-in page to reset it.
+   * If you have forgotten your password, click **Forgot your password?** on the sign-in page to reset it.
 
-<img src="vertopal_bc3c5f9d31814935baf4b893a10d7c35/media/image2.jpg"
-style="width:2.71995in;height:4.11597in" />
-<img src="vertopal_bc3c5f9d31814935baf4b893a10d7c35/media/image3.png"
-style="width:2.84167in;height:4.12215in" />
-
+![Figure 2](https://github.com/nivekris18/User-Manual/assets/133299290/06a8e681-0a35-4023-ae35-02c8576eb992)
 > **Figure 2**
 
 - ## New Member
 
 <!-- -->
 
-- Click **Create your Amazon account**. Refer Figure 2.
+  * Click **Create your Amazon account**. Refer Figure 2.
 
-- Fill in all the required details and click on **Create your Amazon
-  account**.
+  * Fill in all the required details and click on **Create your Amazon account**.
 
-> “WELCOME TO PRIME VIDEO”
+  > “WELCOME TO PRIME VIDEO”
 
-- This is a paid membership. You can opt for a monthly, quarterly, or
-  yearly subscription.
+  * This is a paid membership. You can opt for a monthly, quarterly, or yearly subscription.
 
 # LOGGING OFF/ SIGN OUT
 
 Click on **Sign out** to sign out from Prime Video.
 
-<img src="vertopal_bc3c5f9d31814935baf4b893a10d7c35/media/image4.png"
-style="width:6.5326in;height:3.39542in" />
-
+![Figure 3](https://github.com/nivekris18/User-Manual/assets/133299290/b3011d7f-84b5-456f-a905-83002c30acad)
 **Figure 3**
 
 # FUNCTIONS
@@ -110,38 +96,14 @@ style="width:6.5326in;height:3.39542in" />
 
 - Click any content and then click on:
 
-<img src="vertopal_bc3c5f9d31814935baf4b893a10d7c35/media/image7.png"
-style="width:0.36319in;height:0.31667in" />
-
-> Play- Watch the video
->
-> <img src="vertopal_bc3c5f9d31814935baf4b893a10d7c35/media/image8.png"
-> style="width:0.35833in;height:0.30833in" />
->
-> Add to Watchlist- Add to the watchlist to view it later.
->
-> <img src="vertopal_bc3c5f9d31814935baf4b893a10d7c35/media/image9.png"
-> style="width:0.34861in;height:0.35208in" />
->
-> Download- You can download the video and can watch it offline.
->
-> <img src="vertopal_bc3c5f9d31814935baf4b893a10d7c35/media/image10.png"
-> style="width:0.37659in;height:0.325in" />Watch Party- You can stream
-> movies and TV shows online with friends. You can become a host and
-> invite others to join your Watch Party and
->
-> watch shows together from different locations.
+![screenshot](https://github.com/nivekris18/User-Manual/assets/133299290/4e78e857-8268-4f9f-8bb8-b951fb2c200b)
 
 # SETTINGS
-
-<img src="vertopal_bc3c5f9d31814935baf4b893a10d7c35/media/image11.png"
-style="width:0.21667in;height:0.22917in" />
 
 - Click the rightmost icon. It allows you to access the different
   settings.
 
-<img src="vertopal_bc3c5f9d31814935baf4b893a10d7c35/media/image12.png"
-style="width:5.87974in;height:2.75356in" />
+![Figure 4](https://github.com/nivekris18/User-Manual/assets/133299290/9e0e248b-a0ff-472f-9a36-fe9ee826aee5)
 
 **Figure 4**
 
