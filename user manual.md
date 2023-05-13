@@ -21,7 +21,6 @@ members and includes a huge library of movies and TV shows across every
 category, from romantic comedies to timeless classics.
 
 # GETTING STARTED
-<!-- -->
 
 - To get started, ensure that you are running the latest version of one of these web browsers:
 
@@ -35,15 +34,13 @@ category, from romantic comedies to timeless classics.
 
   * Opera
 
-<!-- -->
-
 - Visit <https://www.primevideo.com/>. Refer Figure 1.
 
 - Click **Sign in to join Prime**.
 
 ![Figure 1](https://github.com/nivekris18/User-Manual/assets/133299290/19d82ad3-3f82-4ee3-a0b0-a027c30bbf16)
 
-**Figure 1**
+*Figure 1*
 
 # LOG IN/ SIGN IN
 
@@ -57,13 +54,14 @@ category, from romantic comedies to timeless classics.
 
 ![Figure 2](https://github.com/nivekris18/User-Manual/assets/133299290/06a8e681-0a35-4023-ae35-02c8576eb992)
 
-**Figure 2**
+*Figure 2*
 
 - ## New Member
 
     * Click **Create your Amazon account**. Refer Figure 2.
 
     * Fill in all the required details and click on **Create your Amazon account**.
+      
       “WELCOME TO PRIME VIDEO”
 
     * This is a paid membership. You can opt for a monthly, quarterly, or yearly subscription.
@@ -74,14 +72,14 @@ Click on **Sign out** to sign out from Prime Video.
 
 ![Figure 3](https://github.com/nivekris18/User-Manual/assets/133299290/b3011d7f-84b5-456f-a905-83002c30acad)
 
-**Figure 3**
+*Figure 3*
 
 # FUNCTIONS
 
 - Navigate through the **Home, Store, Categories & My Stuff** tabs to
   avail prime experience. These tabs are self-explanatory.
 
-- Click
+- Click![icons8-search-50](https://github.com/nivekris18/User-Manual/assets/133299290/b52bd0b6-6e4f-437e-a509-76b8ec651932)
   and search for your wished movie, TV shows, etc.
 
 - Click any content to get info about it such as IMDb ratings, video
@@ -99,7 +97,7 @@ Click on **Sign out** to sign out from Prime Video.
 
 ![Figure 4](https://github.com/nivekris18/User-Manual/assets/133299290/9e0e248b-a0ff-472f-9a36-fe9ee826aee5)
 
-**Figure 4**
+*Figure 4*
 
 - **Help**
 
